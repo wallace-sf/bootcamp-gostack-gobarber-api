@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Fastfeet" title="Fastfeet" src="https://user-images.githubusercontent.com/53301430/73714014-4579ea80-46ee-11ea-9c34-da7069b1265c.png" width="300px" />
+  <img alt="Fastfeet" title="Fastfeet" src="https://i.imgur.com/a34ao0x.png" width="150px" />
 </h1>
 
 <p align="center">“Simples! É você que controla a sua mente, se você acreditar e lutar pelo que quer, você conseguirá atingir tudo o que pretende.”</blockquote>
